@@ -17,3 +17,7 @@
     padding-left: 1%;
     color: rgba(0, 255, 26, 1) ;
 }
+
+.cabeçalho-lista-item:hover {
+    color: rgba(0, 255, 26, 1) ;
+}
