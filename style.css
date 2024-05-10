@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho{
+    background-color: black;
+}
+
+.titulo-principal{
+    color: 00FF1A;
+}
+
+.sub-titulo{
+    color: 00FF1A;
+}
