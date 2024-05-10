@@ -18,10 +18,8 @@
     color: rgba(0, 255, 26, 1) ;
 }
 
-.cabeçalho-lista-item{
+.cabeçalho-lista-item:hover{
+    color: white;
     color: rgba(0, 255, 26, 1) ;
 }
 
-cabeçalho-lista-item:hover{
-    color: white;
-}
