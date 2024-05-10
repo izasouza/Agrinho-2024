@@ -8,10 +8,13 @@
 }
 
 .título-principal{
-    padding-left: 2%;
+    padding-top: 1%;
+    padding-left: 1%;
     color: rgba(0, 255, 26, 1);
 }
 
 .sub-titulo{
+    padding-top: 1%;
+    padding-left: 1%;
     color: rgba(0, 255, 26, 1) ;
 }
