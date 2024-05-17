@@ -24,7 +24,7 @@
 
 .cabeçalho-lista-item{
     font-size: 30px;
-    margin: 0 25px;
+    margin: 0 0 0 15px;
     display: inline-block;
     color: rgba(0, 255, 26, 1) ;
 }
