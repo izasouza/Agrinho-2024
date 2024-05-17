@@ -19,13 +19,13 @@
 }
 
 .cabeçalho-lista{
-    text-align: right;
+    text-align: center;
 }
 
 .cabeçalho-lista-item{
     font-size: 30px;
     margin: 0 25px;
-    display: inline-block;
+    display: inline;
     color: rgba(0, 255, 26, 1) ;
 }
 
