@@ -18,8 +18,11 @@
     color: rgba(0, 255, 26, 1) ;
 }
 
-.cabeçalho-lista-item{
+.cabeçalho-lista{
     text-align: center;
+}
+
+.cabeçalho-lista-item{
     font-size: 30px;
     margin: 0 25px;
     display: inline-block;
