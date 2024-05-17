@@ -23,9 +23,9 @@
 }
 
 .cabeçalho-lista-item{
-    display: flex;
     font-size: 30px;
     margin: 0 25px;
+    display: inline-block;
     color: rgba(0, 255, 26, 1) ;
 }
 
