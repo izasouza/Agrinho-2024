@@ -31,5 +31,6 @@
 
 .motivos{
     background-image:url("download.jpeg");
+    background-repeat: no-repeat;
 }
 
