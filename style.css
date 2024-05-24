@@ -30,6 +30,6 @@
 }
 
 #motivos{
-    background-image:url(images/download.jpeg);
+    background-image:url("images/download.jpeg");
 }
 
