@@ -37,3 +37,6 @@ body{
     background-size: cover;
 }
 
+p{
+    position: absolute;
+}
