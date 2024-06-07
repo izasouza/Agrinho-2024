@@ -40,7 +40,7 @@ body{
 #main-banner-content {
     height: 250px;
     width: 700px;
-    float: right;
+    float: center;
     margin: 40px 60px;
     background: #000000;
 }
