@@ -37,10 +37,17 @@ body{
     background-size: cover;
 }
 
+.main-banner {
+    padding: 0;
+    width: 1000px;
+    height: 330px;
+    overflow: hidden;
+    background: blue
+}
 #main-banner-content {
-    height: 50%;
-    width: 50%;
-    float: center;
+    height: 250px;
+    width: 700px;
+    float: right;
     margin: 40px 60px;
     background: #000000;
 }
