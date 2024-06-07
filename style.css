@@ -38,6 +38,7 @@ body{
 }
 
 #main-banner-content {
+    text-align: center;
     height: 700px;
     width: 700px;
     float: right;
