@@ -38,8 +38,8 @@ body{
 }
 
 #main-banner-content {
-    height: 250px;
-    width: 700px;
+    height: 50%;
+    width: 50%;
     float: center;
     margin: 40px 60px;
     background: #000000;
