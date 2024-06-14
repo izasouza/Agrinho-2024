@@ -38,6 +38,6 @@
 #main-banner-content {
     height: 700px;
     width: 700px;
-    margin: 40px 60px;
     background: #00000091;
+    align-items: center;
 }
