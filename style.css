@@ -37,7 +37,7 @@ body{
 }
 
 #main-banner-content {
-    text-align: center;
+    align-items: center;
     height: 700px;
     width: 700px;
     margin: 40px 60px;
