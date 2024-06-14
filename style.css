@@ -29,7 +29,7 @@
     color: white
 }
 
-body{
+.fundo{
     background-attachment: fixed;
     background-image:url("download.jpeg");
     background-repeat: no-repeat;
@@ -37,7 +37,6 @@ body{
 }
 
 #main-banner-content {
-    align-items: center;
     height: 700px;
     width: 700px;
     margin: 40px 60px;
