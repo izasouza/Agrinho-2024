@@ -59,3 +59,9 @@
 #consequências{
     background-image: linear-gradient(#5E6C77,#AFC9DD);
 }
+
+.titulo-consequencias{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
