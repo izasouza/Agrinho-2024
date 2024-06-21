@@ -87,6 +87,10 @@
     font-size: 35px;
 }
 
+#curiosidades{
+    background-image: linear-gradient(#AFC9DD, #FFFFFF);
+}
+
 .titulo-curiosdades{
     text-align: center;
     font-size: 50px;
