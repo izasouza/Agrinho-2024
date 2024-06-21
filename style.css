@@ -61,14 +61,14 @@
 }
 
 .titulo-consequencias{
-    margin: auto;
+    margin-top: 1%;
     text-align: center;
     font-size: 50px;
     color: white;
 }
 
 .topicos-consequencias{
-    margin: auto;
+    margin: 1%;
     font-size: 25px;
     color: white;
     text-align: left;
