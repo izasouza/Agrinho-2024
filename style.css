@@ -56,8 +56,8 @@
     font-size: 32px;
 }
 
-#consequências{
-    background-image: linear-gradient(#5E6C77,#AFC9DD);
+.fundo-tudo{
+    background-image: linear-gradient(#5E6C77, #AFC9DD);
 }
 
 .titulo-consequencias{
@@ -85,10 +85,6 @@
     color: rgba(0, 255, 26, 1) ;;
     font-family: cursive;
     font-size: 35px;
-}
-
-#curiosidades{
-    background-image: linear-gradient(#AFC9DD, #FFFFFF);
 }
 
 .titulo-curiosdades{
