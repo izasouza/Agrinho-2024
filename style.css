@@ -94,6 +94,7 @@
 }
 
 .botão{
+    margin-top: 2%;
     border-radius: 50%;
     width: 350px;
     height: 350px;
@@ -104,6 +105,5 @@
 }
 
 #curiosidades{
-    margin-top: 2%;
     text-align: center;
 }
