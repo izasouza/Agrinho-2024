@@ -94,6 +94,7 @@
 }
 
 .botão{
+    border-radius: 50%;
     background-color: red;
     color: white;
     text-align: center;
