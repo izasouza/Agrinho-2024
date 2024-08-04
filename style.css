@@ -136,8 +136,9 @@ body{
 }
 
 .rodapé{
+    font-size: 24px;
     text-align: center;
-    color: #FFFFFF;
+    color:#00FF11;
     height: 50px;
     background-color:#000000;
 }
@@ -147,6 +148,7 @@ body{
     margin: 0 25px;
     display: inline;
     color: white;
+    text-align: center;
 }
 
 
