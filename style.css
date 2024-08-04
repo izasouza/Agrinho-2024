@@ -42,14 +42,11 @@ body{
     background-size: cover;
 }
 
-.motivos{
-    align-items: center;
-}
-
 .fundo-texto-motivos{
     background: #00000091;
-    height: 60%;
-    width: 60%;
+    height: 80%;
+    width: 80%;
+    margin: 25%;
 
 }
 
