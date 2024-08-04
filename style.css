@@ -58,6 +58,7 @@ body{
 }
 
 .texto-motivo{
+    padding: 1%;
     color: #FFFFFF;
     font-size: 36px;
     font: bold;
