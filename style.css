@@ -113,3 +113,10 @@ body{
     text-align: center;
     padding: 2%;
 }
+
+.botao{
+    border-radius: 50%;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #000000;
+}
