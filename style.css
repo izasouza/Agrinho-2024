@@ -44,7 +44,7 @@ body{
 
 .fundo-texto-motivos{
     background: #00000091;
-    text-align: center;
+    align-self: center;
 
 }
 
