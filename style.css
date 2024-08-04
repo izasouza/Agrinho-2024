@@ -9,5 +9,12 @@
 
 .titulo-cabeçalho{
     color: #00FF11;
-    word-break: break-all;
+}
+
+.cabeçalho-lista{
+    color: #00FF11;
+}
+
+.cabeçalho-lista:hover{
+    color: white;
 }
