@@ -114,14 +114,3 @@ body{
     text-align: center;
     padding: 2%;
 }
-
-.botao {
-    text-align: center;
-    font-size: 70px;
-    margin-top: 4%;
-    border-radius: 50%;
-    width: 350px;
-    height: 350px;
-    background-color: #000000
-
-}
