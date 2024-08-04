@@ -136,6 +136,7 @@ body{
 }
 
 .rodapé{
+    padding: 1%;
     font-size: 24px;
     text-align: center;
     color:#00FF11;
@@ -144,8 +145,8 @@ body{
 }
 
 .volta{
+    padding: 1%;
     font-size: 30px;
-    margin: 0 25px;
     display: inline;
     color: white;
     text-align: center;
