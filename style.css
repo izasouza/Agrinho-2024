@@ -18,11 +18,9 @@
 }
 
 .cabeçalho-lista{
-    color: #00FF11;
-    display: inline;
-    margin: 0 0 0 5%;
+
 }
 
-.cabeçalho-lista:hover{
-    color: white;
+.cabeçalho-item{
+    display: inline;
 }
