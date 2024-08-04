@@ -39,16 +39,5 @@ a:hover{
 
 .fundo-motivos{
     background-image: url(fundo.png);
-}
-
-.fundo-texto-motivos{
-    background: #000000;
-    opacity: 25%;
-    width: 50%;
-    height: 50%;
-}
-
-.titulo-motivo{
-    color: #FFFFFF;
-    font-size: 36px;
+    background-size: cover;
 }
