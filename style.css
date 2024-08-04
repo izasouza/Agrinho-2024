@@ -91,7 +91,7 @@ body{
 }
 
 .no-campo{
-    padding: 5% 2% 2% 2%;
+    padding: 6% 2% 2% 2%;
     text-align: left;
     font-size: 32px;
     color: #00FF11
@@ -101,4 +101,26 @@ body{
     color: #FFFFFF;
     font-size: 32px;
     text-align: center;
-} 
+}
+
+.fundo-botao{
+    background-color: #FFFFFF;
+}
+
+.titulo-botao{
+    color: #000000;
+    font-size: 64px;
+    text-align: center;
+}
+
+.botao {
+    text-align: center;
+    font-size: 70px;
+    margin-top: 4%;
+    border-radius: 50%;
+    color: #FFFFFF
+    width: 350px;
+    height: 350px;
+    background-color: #000000
+
+}
