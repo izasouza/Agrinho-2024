@@ -70,7 +70,7 @@ body{
 }
 
 .titulo-consequencias{
-    padding: 1%;
+    padding: 2%;
     color: #00FF11;
     font-size: 64px;
     font: bolder;
@@ -78,7 +78,7 @@ body{
 }
 
 .na-cidade{
-    padding: 2%;
+    padding: 4% 2% 2% 2%;
     text-align: left;
     font-size: 24px;
     color: #00FF11
