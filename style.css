@@ -132,5 +132,25 @@ body{
     width: 350px;
     height: 350px;
     font-size: 50px;  
-    margin: 4%;  
+    margin: 5%;  
 }
+
+.rodapé{
+    text-align: center;
+    color: #FFFFFF;
+    height: 50px;
+    background-color:#000000;
+}
+
+.volta{
+    font-size: 30px;
+    margin: 0 25px;
+    display: inline;
+    color: white;
+}
+
+
+.volta:hover {
+    color: #00FF11 ;
+}
+
