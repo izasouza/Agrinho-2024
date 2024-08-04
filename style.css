@@ -9,5 +9,5 @@
 
 .titulo-cabeçalho{
     color: #00FF11;
-    word-wrap: break-word;
+    word-break: break-all;
 }
