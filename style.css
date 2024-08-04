@@ -64,3 +64,27 @@ body{
     font: bold;
     text-align: center;
 }
+
+.fundo-consequencias{
+    background-color: #000000;
+}
+
+.titulo-consequencias{
+    color: #00FF11;
+    font-size: 64px;
+    font: bolder;
+    text-align: center;
+}
+
+.na-cidade{
+    padding: 0.5%;
+    text-align: left;
+    font-size: 24px;
+    color: #00FF11
+}
+
+.topico-na-cidade{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 24px;
+}
