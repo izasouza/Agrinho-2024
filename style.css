@@ -28,9 +28,12 @@
     display: inline;
     margin: 0 1% 0 0;
     font-size: 24px;
+}
+
+ul{
     color: #00FF11;
 }
 
-.cabeçalho-item:hover{
+ul:hover{
     color: #FFFFFF;
 }
