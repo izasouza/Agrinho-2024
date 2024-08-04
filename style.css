@@ -43,11 +43,10 @@ body{
 }
 
 .fundo-texto-motivos{
-    align-items: center;
     background: #00000091;
     height: 55%;
     width: 55%;
-    margin: 15%;
+    margin: 15% 20% 15% 20%;
 
 }
 
