@@ -23,4 +23,7 @@
 
 .cabeçalho-item{
     display: inline;
+    text-align: right;
+    margin: 0 1% 0 0;
+    font-size: 24px;
 }
