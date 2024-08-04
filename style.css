@@ -18,12 +18,12 @@
 }
 
 .cabeçalho-lista{
-
+    text-align: right;
 }
 
 .cabeçalho-item{
+    font: bold;
     display: inline;
-    text-align: right;
     margin: 0 0.5% 0 0;
     font-size: 24px;
     color: #00FF11;
