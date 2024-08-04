@@ -50,9 +50,16 @@ body{
 
 }
 
-.titulo-motivos{
+.titulo-motivo{
     color: #FFFFFF;
     font-size: 36px;
     padding: 1%;
+    text-align: center;
+}
+
+.texto-motivo{
+    color: #FFFFFF;
+    font-size: 24px;
+    font: bold;
     text-align: center;
 }
