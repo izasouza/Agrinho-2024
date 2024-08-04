@@ -9,7 +9,12 @@
 
 .titulo-cabeçalho{
     color: #00FF11;
-    padding: 1%;
+    padding: 1% 0 0 1%
+}
+
+.subtitulo-cabeçalho{
+    color: #00FF11;
+    padding: 1% 0 0 1%;
 }
 
 .cabeçalho-lista{
