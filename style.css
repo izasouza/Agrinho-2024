@@ -30,10 +30,10 @@
     font-size: 24px;
 }
 
-ul{
+a {
     color: #00FF11;
 }
 
-ul:hover{
+a:hover{
     color: #FFFFFF;
 }
