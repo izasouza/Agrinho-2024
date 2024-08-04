@@ -114,6 +114,10 @@ body{
     text-align: center;
 }
 
+#botao:hover{
+    color: #00FF11;
+}
+
 .fundo-botao{
     background-color: #FFFFFF;
 }
@@ -134,10 +138,6 @@ body{
     height: 350px;
     font-size: 50px;  
     margin: 5%;  
-}
-
-.botao:hover{
-    color: #00FF11;
 }
 
 .rodapé{
