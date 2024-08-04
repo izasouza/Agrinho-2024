@@ -39,7 +39,6 @@ a:hover{
 
 body{
     background-image: url(fundo.png);
-    background-size: cover;
 }
 
 .fundo-texto-motivos{
@@ -115,6 +114,7 @@ body{
 }
 
 .botao{
+    align-items: center;
     border-radius: 50%;
     text-align: center;
     color: #FFFFFF;
