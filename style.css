@@ -13,6 +13,7 @@
 
 .cabeçalho-lista{
     color: #00FF11;
+    display: inline;
 }
 
 .cabeçalho-lista:hover{
