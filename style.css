@@ -4,7 +4,7 @@
 }
 
 #cabeçalho{
-    background-color: black;
+    background-color: #000000;
 }
 
 .titulo-cabeçalho{
@@ -26,4 +26,9 @@
     text-align: right;
     margin: 0 0.5% 0 0;
     font-size: 24px;
+    color: #00FF11;
+}
+
+.cabeçalho-item:hover{
+    color: #FFFFFF;
 }
