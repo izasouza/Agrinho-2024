@@ -2,3 +2,11 @@
     margin: 0;
     padding: 0;
 }
+
+#cabeçalho{
+    background-color: black;
+}
+
+.titulo-cabeçalho{
+    color: #00FF11;
+}
