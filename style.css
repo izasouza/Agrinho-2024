@@ -18,13 +18,12 @@
 }
 
 .cabeçalho-lista{
+    font: bold;
     text-align: right;
     padding-right: 1%;
-    color:#00FF11;
 }
 
 .cabeçalho-item{
-    font: bold;
     display: inline;
     margin: 0 1% 0 0;
     font-size: 24px;
