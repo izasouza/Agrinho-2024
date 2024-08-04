@@ -39,8 +39,7 @@ a:hover{
 
 body{
     background-image: url(fundo.png);
-    width: auto;
-    height: auto;
+    background-size: cover;
 }
 
 .fundo-texto-motivos{
@@ -122,5 +121,6 @@ body{
     background-color: #000000;
     width: 350px;
     height: 350px;
-    font-size: 34px;    
+    font-size: 34px;  
+    margin: 5%;  
 }
