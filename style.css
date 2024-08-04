@@ -43,6 +43,7 @@ body{
 }
 
 .fundo-texto-motivos{
+    text-align: center;
     background: #00000091;
     height: 80%;
     width: 80%;
