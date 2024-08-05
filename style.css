@@ -39,6 +39,7 @@ a:hover{
 
 body{
     background-image: url(fundo.png);
+    align-items: center;
 }
 
 .fundo-texto-motivos{
