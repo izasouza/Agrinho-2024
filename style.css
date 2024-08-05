@@ -39,7 +39,6 @@ a:hover{
 
 body{
     background-image: url(fundo.png);
-    align-items: center;
 }
 
 .fundo-texto-motivos{
@@ -78,6 +77,7 @@ body{
 }
 
 .na-cidade{
+    text-align: center;
     padding: 4% 2% 2% 2%;
     text-align: left;
     font-size: 32px;
@@ -91,6 +91,7 @@ body{
 }
 
 .no-campo{
+    text-align: center;
     padding: 6% 2% 2% 2%;
     text-align: left;
     font-size: 32px;
