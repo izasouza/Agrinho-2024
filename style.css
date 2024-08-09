@@ -154,12 +154,15 @@ body{
     font-size: 45px;
     text-align: center;
     margin: 10%;
+    display: inline;
+
 }
 
 .nome-botao-toda-materia{
     font-size: 45px;
     text-align: center;
     margin: 10%;
+    display: inline;
 }
 
 .rodapé{
