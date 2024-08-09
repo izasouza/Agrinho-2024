@@ -151,6 +151,10 @@ button:hover{
 }
 
 .saiba-mais-lista{
+    text-align: center;
+}
+
+.saiba-mais-item{
     display: inline;
     font-size: 40px;
     margin: 0 3% 0 0;
