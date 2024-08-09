@@ -124,8 +124,8 @@ body{
     padding: 2%;
 }
 
-.botao{
-    border-radius: 50%;
+.botao-agrinho{
+    border-radius: 20%;
     text-align: center;
     color: #FFFFFF;
     background-color: #000000;
@@ -135,7 +135,7 @@ body{
     margin: 5%;  
 }
 
-.botao:hover{
+.botao-agrinho{
     background-color: #00FF11;
 }
 
