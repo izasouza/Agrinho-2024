@@ -157,10 +157,7 @@ button:hover{
 .saiba-mais-item{
     display: inline;
     font-size: 40px;
-}
-
-.saiba-mais-item-1{
-    margin: 10%;
+    margin: 0 15% 0 0;
 }
 
 .rodapé{
