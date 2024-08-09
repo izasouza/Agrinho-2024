@@ -150,6 +150,12 @@ button:hover{
     background-color: #00FF11;
 }
 
+.saiba-mais-lista{
+    display: inline;
+    font-size: 40px;
+    margin: 0 3% 0 0;
+}
+
 .rodapé{
     padding: 1%;
     font-size: 24px;
