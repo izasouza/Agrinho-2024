@@ -146,7 +146,7 @@ body{
     margin: 10%;  
 }
 
-#botao:hover{
+.botao-geral:hover{
     background-color: #00FF11;
 }
 
