@@ -150,17 +150,6 @@ button:hover{
     background-color: #00FF11;
 }
 
-.nome-botao-agrinho{
-    font-size: 45px;
-    text-align: center;
-    display: inline;
-}
-
-.nome-botao-toda-materia{
-    font-size: 45px;
-    display: inline;
-}
-
 .rodapé{
     padding: 1%;
     font-size: 24px;
