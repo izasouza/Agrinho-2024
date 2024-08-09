@@ -150,16 +150,6 @@ button:hover{
     background-color: #00FF11;
 }
 
-.saiba-mais-lista{
-    text-align: center;
-}
-
-.saiba-mais-item{
-    display: inline;
-    font-size: 40px;
-    margin: 0 15% 0 0;
-}
-
 .rodapé{
     padding: 1%;
     font-size: 24px;
