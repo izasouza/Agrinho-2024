@@ -143,11 +143,23 @@ body{
     width: 350px;
     height: 350px;
     font-size: 50px;  
-    margin: 5%;  
+    margin: 10%;  
 }
 
-#botao{
+#botao:hover{
     background-color: #00FF11;
+}
+
+.nome-botao-agrinho{
+    font-size: 45px;
+    text-align: center;
+    margin: 10%;
+}
+
+.nome-botao-toda-materia{
+    font-size: 45px;
+    text-align: center;
+    margin: 10%;
 }
 
 .rodapé{
